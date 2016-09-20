@@ -10,7 +10,7 @@ test cases in RleTests.h.
 
 
 
-2. SHA-1 Password Cracker
+2.SHA-1 Password Cracker
 
 
 -Implemented a Password Cracker with C++ for ITP-435 (Professional C++) under Sanjay Madhav
