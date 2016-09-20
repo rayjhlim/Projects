@@ -1,4 +1,4 @@
-1. RLE
+1.RLE
 
 -Implemented RLE compression / decompression with C++ for ITP-435 (Professional C++) under Sanjay Madhav
 
