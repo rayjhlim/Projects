@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_location.png",
+        "source": "/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/src/main/res/drawable-hdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_profile.png",
+        "source": "/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/src/main/res/drawable-hdpi/ic_profile.png"
+    },
+    {
+        "merged": "/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_message.png",
+        "source": "/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/src/main/res/drawable-hdpi/ic_message.png"
+    }
+]

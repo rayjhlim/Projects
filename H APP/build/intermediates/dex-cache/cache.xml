@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_0c87fc6b2b22f1b4200038c97c5f6bbaea797470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_84b13f49fab9e74c68fbfb1fe10561adedc8f6fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_95b663da50f6f9cf64b1792911c11555ba07a5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/.gradle/caches/modules-2/files-2.1/com.cloudinary/cloudinary-core/1.4.6/33b6f253fddd5bd49a090e60acce0798e0171253/cloudinary-core-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="33b6f253fddd5bd49a090e60acce0798e0171253">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/cloudinary-core-1.4.6_e42f6bd5af381fd0d2c7e3f2b3f74c23287d9550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.mikepenz-materialize-1.0.0_0febfc2421016dad0e476bd477396c3d82ccc96c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a622a544a93e4f9b00cc1045ad8cd33d143fce92">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.mikepenz-fastadapter-2.0.0_5fed72f396b5953fb1f89002339f54b68474f25e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5f61e97a658ccda993ca1f64afaab768ee10f6f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7631465487360e224e06244f8b1652b3b2f04fe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_0acd63691de23dd4b19266e45b37d8f45998ae25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_127657db1637a214e3abf65515f92a8ac2a83652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_90fe1c8ae34d85a41e612bdcd2265eb47249eb8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_4991338b08c5639e18863c5906054e691845de3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_5ce87a8c4a70e6879e81eced9d1ad40527b12f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_45dc1a86520cea9e7084c92529f0db1affb959d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.17.0_ae100a76cf3a7f04cd82db40384bdfc7dab67c20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/org.honorato.multistatetogglebutton/multistatetogglebutton/0.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7460c7e8002ab6678c217d3b5ef2e1d8c62b20fc">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/org.honorato.multistatetogglebutton-multistatetogglebutton-0.2.2_9c9fbaf87a687fec3f08e3f54caf909a4f08cf39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.mikepenz-iconics-core-2.8.0_5d89663b2d83150484ab76cb0e48c4b7533549fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_af7503d3ea85aecc9312a61143560151b1ab4299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_2e275b44b05368e320f1e6e53e1bc3f4de9f8ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_9c21f85f3ef9281afbd1895113d6667bf48a8180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_5b6a942dadc9c95365a916e3a926c5f8f41307c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ab8427cf0118b79f4b934b457c1110efcd0694a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_9cc9b759f93ebae3874ea2c029f05e51348bbd75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_a148efdb2fa62a6412ae33ff9ba5297b72ac8048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_69a73dc8d3b4580b4e8aa050af0225ee3ccf128f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_84b250cf86327ab5bc79ddcfe46614e9dbda76cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/.gradle/caches/modules-2/files-2.1/com.cloudinary/cloudinary-android/1.4.6/193e53756aabbddd14b478f95c92f98bcb5a5d96/cloudinary-android-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="193e53756aabbddd14b478f95c92f98bcb5a5d96">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/cloudinary-android-1.4.6_b6860e20da4c69b734039d1afd13a4a3f2cd041f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c140aa97dbb6d94fac14ca36c14a13b2e8d8ba36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_6b5a96c1701f291cea242f434c73a2a8e3ca137b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_4ec2c34d54d31161ec6dcc0d37b1cbf8448f339e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_65dae40efc04c8706044892f48f049e1905b9ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.7.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b1993adb9e15cb5ac162d1df484fe5fdc31070a">
+        <dex dex="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/intermediates/pre-dexed/debug/com.mikepenz-materialdrawer-5.7.0_bd85861894150bc0b1c24f541a4194770516d538.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="38105860542522"
+    token="-1308415727026388196"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2660" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1466" />
+    <task
+        name="verifier"
+        duration="406" />
+
+    <artifact
+        location="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="38105860542522"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/jungholim/Dropbox/fall2016/CSCI-201/Final Project/fp_team_09/H/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
